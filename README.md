@@ -24,7 +24,7 @@ A simple agentic AI application that analyzes user symptoms and returns a possib
 
 ---
 
-## 🗂️ Directory Structure
+## 🗂️ Directory Structure 
 
 ```bash
 .
